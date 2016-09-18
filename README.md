@@ -3,9 +3,9 @@ Homework of computational physics course
 
 #Homework list
 
-[Exercise_01:All levels](https://www.zybuluo.com/mdeditor#493534)
+[Exercise_01:All levels](https://www.zybuluo.com/Guozhongzhi/note/493534)
 
-Exercise02:
+[Exercise02:Print name on the screen](https://www.zybuluo.com/Guozhongzhi/note/493534)
 
 Exercise03:
 
