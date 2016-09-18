@@ -5,7 +5,7 @@ Homework of computational physics course
 
 [Exercise_01:All levels](https://www.zybuluo.com/Guozhongzhi/note/493534)
 
-[Exercise02:Print name on the screen](https://www.zybuluo.com/Guozhongzhi/note/493534)
+[Exercise02:Print name on the screen](https://github.com/Guozhongzhi/Homework-materials/blob/master/README.md)
 
 Exercise03:
 
