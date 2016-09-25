@@ -7,7 +7,7 @@ Homework of computational physics course
 
 [Exercise02:Print name on the screen](https://github.com/Guozhongzhi/Homework-materials/blob/master/README.md)
 
-Exercise03:
+[Exercise03:move your name on the screen and rotate a symbol](https://www.zybuluo.com/Guozhongzhi/note/513305)
 
 Exercise04:
 
