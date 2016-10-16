@@ -5,13 +5,13 @@ Homework of computational physics course
 
 [Exercise_01:First attempt for computational physics](https://www.zybuluo.com/Guozhongzhi/note/493534)
 
-[Exercise02:Print name on the screen](https://github.com/Guozhongzhi/Homework-materials/blob/master/README.md)
+[Exercise_02:Print name on the screen](https://github.com/Guozhongzhi/Homework-materials/blob/master/README.md)
 
-[Exercise03:move your name on the screen and rotate a symbol](https://www.zybuluo.com/Guozhongzhi/note/513305)
+[Exercise_03:move your name on the screen and rotate a symbol](https://www.zybuluo.com/Guozhongzhi/note/513305)
 
-[Exercise04:Problem_1.5](https://www.zybuluo.com/Guozhongzhi/note/520852)
+[Exercise_04:Problem_1.5](https://www.zybuluo.com/Guozhongzhi/note/520852)
 
-Exercise05:
+[Exercise_05:Problem_2.6:The trajectories of cannon shell](https://www.zybuluo.com/Guozhongzhi/note/533805)
 
 Exercise06: 
 
