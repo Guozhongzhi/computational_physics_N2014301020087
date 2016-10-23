@@ -13,7 +13,7 @@ Homework of computational physics course
 
 [Exercise_05:Problem_2.6:The trajectories of cannon shell](https://www.zybuluo.com/Guozhongzhi/note/533805)
 
-Exercise06: 
+[Exercise_06:Problem2.10](https://www.zybuluo.com/Guozhongzhi/note/542167)
 
 Exercise07: 
 
