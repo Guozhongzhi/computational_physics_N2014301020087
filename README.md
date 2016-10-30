@@ -15,7 +15,7 @@ Homework of computational physics course
 
 [Exercise_06:Problem2.10](https://www.zybuluo.com/Guozhongzhi/note/542167)
 
-Exercise07: 
+[Exercise07: Problem3.12 The chaos of pendulum](https://www.zybuluo.com/Guozhongzhi/note/549934)
 
 Exercise08: 
 
