@@ -54,7 +54,8 @@ class Poincare_section:
             
  #           delta = (self.OMIGA_D * self.t[i]) / (2 * math.pi) 
  #           delta = (self.OMIGA_D * self.t[i]) / (2 * math.pi) - 1.0 / 2.0
-            delta = (self.OMIGA_D * self.t[i]) / (2 * math.pi) - 1.0 / 8.0
+ #           delta = (self.OMIGA_D * self.t[i]) / (2 * math.pi) - 1.0 / 8.0
+             delta = (self.OMIGA_D * self.t[i]) / (2 * math.pi) - 1.0 / 4.0
             if abs(delta - round(delta)) <= 0.001:
 
                 self.t1.append(self.t[i])
