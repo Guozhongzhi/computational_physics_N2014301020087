@@ -17,7 +17,7 @@ Homework of computational physics course
 
 [Exercise07: Problem3.12 The chaos of pendulum](https://www.zybuluo.com/Guozhongzhi/note/549934)
 
-Exercise08: 
+[Exercise08: Problem3.18 Period-doubling——The routine of chaos](https://www.zybuluo.com/Guozhongzhi/note/565435)
 
 Exercise09: 
 
