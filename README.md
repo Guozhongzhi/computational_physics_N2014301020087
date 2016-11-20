@@ -19,6 +19,6 @@ Homework of computational physics course
 
 [Exercise08: Problem3.18 Period-doubling——The routine of chaos](https://www.zybuluo.com/Guozhongzhi/note/565435)
 
-Exercise09: 
+[Exercise09:](https://www.zybuluo.com/Guozhongzhi/note/573630) 
 
 Exercise10:
