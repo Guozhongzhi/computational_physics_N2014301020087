@@ -115,4 +115,61 @@ pl.ylim(-0.6,0.8)
  
 pl.savefig('planet2.png') 
 pl.show() 
+
+
+#vpython画图
+import numpy as np 
+import math as m
+from visual import *
+ 
+
+ 
+#Determine the initial value 
+def initial(a,e): 
+    x0=a*(1+e) 
+    y0=0 
+    v_x0=0 
+    v_y0=2*m.pi*m.sqrt((1-e)/(a*(1+e))) 
+    return [x0,y0,v_x0,v_y0] 
+
+ 
+def orbits(beta, e): 
+    i_M=initial(0.39, e) 
+    x0=i_M[0] 
+    x=[] 
+    x.append(x0) 
+    y0=i_M[1] 
+    y=[] 
+    y.append(y0) 
+    v_x0=i_M[2] 
+    v_x=[] 
+    v_x.append(v_x0) 
+    v_y0=i_M[3] 
+    v_y=[] 
+    v_y.append(v_y0) 
+    r=[] 
+    r.append(m.sqrt(x0**2+y0**2)) 
+    time=1 
+    dt=1e-4 
+    giant = sphere(pos=(0.39*(1+e), 0, 0), radius=0.01, color=color.blue,
+               make_trail=True, interval=10, retain=2000)
+    giant.trail_object.radius = 0.001
+    trail=curve()
+
+    sun = sphere(pos=(0, 0, 0), radius=0.01, color=color.red)
+ 
+    for i in range(int(time/dt)): 
+        v_x.append(v_x[i]-4*m.pi**2*x[i]/(r[i]**(beta+1))*dt) 
+        x.append(x[i]+v_x[i+1]*dt) 
+        v_y.append(v_y[i]-4*m.pi**2*y[i]/(r[i]**(beta+1))*dt) 
+        y.append(y[i]+v_y[i+1]*dt) 
+        r.append(m.sqrt(x[i+1]**2+y[i+1]**2))
+
+        rate(200)
+        giant.pos = vector(x[i], y[i], 0)
+   
+ 
+ 
+#The orbits of planet 
+orbits(2.05, 0.7)
 ```
