@@ -22,3 +22,5 @@ Homework of computational physics course
 [Exercise09: Problem3.31 Billiard on a square table with an obstacle](https://www.zybuluo.com/Guozhongzhi/note/573630) 
 
 [Exercise10:Problem4.9 The moving of celestial body](https://www.zybuluo.com/Guozhongzhi/note/581463)
+
+[Exercise11:The simplified motion of Hyperion](https://www.zybuluo.com/Guozhongzhi/note/589208)
