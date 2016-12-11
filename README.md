@@ -24,3 +24,5 @@ Homework of computational physics course
 [Exercise10:Problem4.9 The moving of celestial body](https://www.zybuluo.com/Guozhongzhi/note/581463)
 
 [Exercise11:Problem4.19 The simplified motion of Hyperion](https://www.zybuluo.com/Guozhongzhi/note/589208)
+
+[Exercise12:Problem5.1 The electic potential in the prism geometry and two metal plates](https://www.zybuluo.com/Guozhongzhi/note/597516)
