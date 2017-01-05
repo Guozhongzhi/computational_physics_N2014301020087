@@ -28,3 +28,5 @@ Homework of computational physics course
 [Exercise12:Problem5.1 The electic potential in the prism geometry and two metal plates](https://www.zybuluo.com/Guozhongzhi/note/597516)
 
 [Exercise13:Problem6.16 Waves on a string (fixed ends)](https://www.zybuluo.com/Guozhongzhi/note/604941)
+
+[期末作业：伊辛模型的蒙卡模拟](https://www.zybuluo.com/Guozhongzhi/note/622019)
